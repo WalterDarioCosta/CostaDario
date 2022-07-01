@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "CostaDario/node_modules/bootstrap/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "CostaDario/node_modules/bootstrap/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
